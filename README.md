@@ -1,8 +1,8 @@
 # Coding for Economist Minds – Spring 2018
 
-### 5-week data analytics workshop for Economics student
+5-week data analytics workshop for Economics student
 
-Organized by UM App Club
+## Organized by UM App Club
 
 Instructors and TAs:
 Leon Wee
